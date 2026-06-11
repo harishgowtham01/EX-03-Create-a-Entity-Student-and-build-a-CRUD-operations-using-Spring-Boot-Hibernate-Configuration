@@ -1,8 +1,8 @@
 # Ex No: 03 – Entity Student and Build CRUD Operations Using Spring Boot Hibernate Configuration
 
-### Name: Harish Gowtham E
+### Name: HARISH GOWTHAM E
 ### Register Number: 2305002009
-
+### Reg No: 2305002001
 
 ## AIM
 
